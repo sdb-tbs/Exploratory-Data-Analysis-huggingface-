@@ -1,5 +1,6 @@
 
-![Logo of the project](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vci19cxv42sbhs9tb9no)
+[comment]: <> (![Logo of the project]&#40;https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vci19cxv42sbhs9tb9no&#41; )
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vci19cxv42sbhs9tb9no" width="25%" height="25%">
 
 # Exploratory Data Analysis
 
